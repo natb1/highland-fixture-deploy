@@ -1,0 +1,7 @@
+name             'highland-fixture-deploy'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures highland-fixture-deploy'
+long_description 'Installs/Configures highland-fixture-deploy'
+version          '0.1.0'
